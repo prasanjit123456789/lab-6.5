@@ -7,10 +7,10 @@ int main(){
 	//declare variables
 	int k=0;
 	//use loop for searching the number 
-	for(long long i=36;i<1000;i++){
+	for(long long i=36;i<4564564;i++){
 	/*that number is perfect sqr and sum of a sequence so there should be another sequence 	that 
 	search the no by adding the sequence and the second loop the first as constant*/
-		for(long long m=36;m<10000;m++){
+		for(long long m=36;m<4564564;m++){
 			if(i*i==m*(m+1)/2){cout<<"The sqr of "<<i<<" i.e. "<<i*i<<endl;}
 			else{}		
 		}	
